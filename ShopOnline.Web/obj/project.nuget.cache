@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PSYeF2JlLdcW7V6hyScnrX+530ahB2qvSE9/mOoqZQXSVjUE5FZnLDF9RNwj8x7MLvJGckhEA1XyElmgHTsfTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukas\\Desktop\\Motoshop\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
